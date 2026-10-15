@@ -1,0 +1,10 @@
+# Saved snips, if someone points -SaveDir at the repo
+*.png
+snips/
+
+# Windows / editor cruft
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.lnk

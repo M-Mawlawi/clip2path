@@ -1,0 +1,5 @@
+* text=auto
+
+# Windows Script Host and PowerShell are happiest with CRLF
+*.ps1 text eol=crlf
+*.vbs text eol=crlf
