@@ -31,7 +31,7 @@ No installer, no dependencies, no admin rights.
 ## Install
 
 ```powershell
-git clone https://github.com/<you>/clip2path.git C:\tools\clip2path
+git clone https://github.com/M-Mawlawi/clip2path.git C:\tools\clip2path
 ```
 
 Then start it:
